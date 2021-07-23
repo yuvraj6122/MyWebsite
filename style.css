@@ -3,7 +3,7 @@
 
 
 .mybg{
-  background-image: url(../tutorial-29/img/laptop.jpg);
+  background-image: url(./img/laptop.jpg);
 }
 
 .bgtext{
@@ -17,7 +17,7 @@
 
 .navbar{
   padding:.4rem;
-  background-image: url(../tutorial-29/img/beach.jpg) ;
+  
 }
 
 .navbar-nav li{
