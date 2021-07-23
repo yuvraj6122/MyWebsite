@@ -9,6 +9,11 @@ body{
   overflow-x: hidden;
 }
 
+img{
+  border-radius: 10px;
+  overflow:hidden;
+}
+
 .mybg{
   background-image: url(https://wallpaperaccess.com/full/5651990.jpg);
 }
