@@ -98,11 +98,12 @@ html{
   .carousel-caption h3{
     font-size: 110%;
     
-    
   }
   
-  
-  
+}
+
+.container-fluid h3{
+ font-family: 'Times New Roman', Times, serif ;
 }
 
 .center{
