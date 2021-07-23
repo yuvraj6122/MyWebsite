@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
 
+
+
 .mybg{
   background-image: url(../tutorial-29/img/laptop.jpg);
 }
@@ -9,8 +11,8 @@
 }
 
 .display-4{
-  color:rgb(0, 0, 0);
-  background-image: url(../tutorial-29/img/laptop.jpg);
+  color:rgb(255, 255, 255);
+  
 }
 
 .navbar{
@@ -34,16 +36,13 @@
 .carousel-caption {
   position: absolute;
   top:50%;
-  transform: translateY(-50%);
+  transform: translateY(-95%);
 }
 
 .carousel-caption h1{
   text-shadow: 1px 1px 10px #000;
 }
 
-.carousel-caption h2{
-
-}
 
 
 
@@ -110,7 +109,7 @@ figure {
   height: 100%;
 }
 #fixed {
-  background-image: url('img/peace.jpg');
+  
   position: fixed;
   display: block;
   top: 0;
